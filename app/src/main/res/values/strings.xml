@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Activity Tracker</string>
+    <string name="title_activity_tracking">Activity</string>
+
+
+    <!-- activity tracking -->
+    <string name="t_new_activity">add</string>
+    <string name="t_edit_activity">Update </string>
+    <string name="t_activities">Enjoy</string>
+    <string name="t_wanna_back">Back?</string>
+    <string name="t_wanna_update">Upfate Confirm?</string>
+    <string name="t_wanna_delete">Delete Confirm?</string>
+    <string name="t_act_save_success">Activity Saved</string>
+    <string name="t_act_update_success">Activity Updated </string>
+    <string name="t_act_delete_success">Activity Deleted </string>
+    <string name="t_ok">OK</string>
+    <string name="t_cancel">Cancel</string>
+    <string name="t_save">Save</string>
+    <string name="t_update">Update</string>
+    <string name="t_delete">Delete</string>
+    <string name="t_stay">Stay in the page</string>
+    <string name="t_author">Author: Qingwu Liu</string>
+    <string name="t_version">Version: 1.0.0</string>
+    <string name="t_help">
+        Author: Qingwu Liu \t\t Version: 1.0.0 \n
+        -----------------------------------------\n\n
+        1. Help \n\n
+        Click menu -> All information about this APP. \n\n
+        2. Activity Summary \n\n
+        Click menu -> Display summary of activity the user does per month. \n\n
+        3. Add Activity \n\n
+        Add new activity. \n\n
+        4. Edit Activity \n\n
+        Click the item to editing,
+        You can update,resave, or delete activity. \n\n
+    </string>
+    <string-array name="t_activities">
+        <item>Running</item>
+        <item>Walking</item>
+        <item>Biking</item>
+        <item>Swimming</item>
+        <item>Skating</item>
+    </string-array>
+    <string name="t_type">Type</string>
+    <string name="t_time">Time</string>
+    <string name="t_duration">Duration</string>
+    <string name="t_comment">Comment</string>
+    <string name="t_count_per_act">Count per activity:\n</string>
+    <string name="t_duration_per_act">Duration per activity:\n</string>
+    <string name="t_start_at">start at </string>
+    <string name="t_for"> for </string>
+    <string name="t_min_note"> minutes. Note: </string>
+    <string name="t_help_title">Help</string>
+    <string name="t_stats_title">Summary</string>
+</resources>
